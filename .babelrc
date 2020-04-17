@@ -1,0 +1,3 @@
+{
+    "presets": ["@babel/preset-env"]//chama o presete que converte o es6 para qualquer ambiente 
+}
